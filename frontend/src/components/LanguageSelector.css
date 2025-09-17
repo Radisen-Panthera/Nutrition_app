@@ -1,0 +1,47 @@
+.language-selector {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.language-icon {
+  color: var(--secondary);
+}
+
+.language-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.language-button {
+  background: var(--glass);
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--light);
+}
+
+.language-button:hover {
+  background: rgba(212, 175, 55, 0.1);
+  border-color: var(--secondary);
+}
+
+.language-button.active {
+  background: linear-gradient(135deg, var(--secondary), var(--accent));
+  color: var(--primary);
+  border-color: var(--secondary);
+}
+
+.language-flag {
+  font-size: 1.2rem;
+}
+
+.language-name {
+  font-size: 0.9rem;
+  font-weight: 500;
+}

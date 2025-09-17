@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "title": "AI驱动的营养智能",
+    "subtitle": "上传患者数据，获取由Raptor AI生成的个性化建议"
+  },
+  "upload": {
+    "title": "将CSV文件拖放到此处",
+    "subtitle": "或点击浏览",
+    "format": "仅限格式",
+    "drop": "释放以上传",
+    "processing": "正在处理数据...",
+    "analyzing": "Raptor AI正在分析补充剂并生成个性化建议"
+  },
+  "analysis": {
+    "success": "Raptor AI成功完成分析",
+    "error": "文件处理错误。请重试。",
+    "patientProfile": "患者档案",
+    "name": "姓名",
+    "id": "ID",
+    "age": "年龄",
+    "viewReport": "查看完整报告",
+    "backToPatients": "返回患者列表",
+    "generatedBy": "所有结果均由Raptor AI生成"
+  },
+  "patients": {
+    "title": "选择患者进行Raptor AI分析",
+    "count": "位患者已由Raptor AI分析",
+    "age": "年龄",
+    "supplementsDetected": "Raptor AI识别的补充剂",
+    "more": "更多",
+    "startNew": "开始新分析"
+  },
+  "results": {
+    "title": "Raptor AI营养分析结果",
+    "subtitle": "以下所有建议均由Raptor AI的先进算法生成",
+    "supplements": "Raptor AI识别的补充剂",
+    "recommendations": "Raptor AI生成的建议",
+    "reason": "Raptor AI分析的益处",
+    "mechanism": "Raptor AI分析的作用机制",
+    "viewReport": "查看Raptor AI完整报告",
+    "newAnalysis": "返回患者列表",
+    "disclaimer": "这些结果基于高级营养分析由Raptor AI生成"
+  },
+  "report": {
+    "title": "Raptor AI生成的综合报告",
+    "subtitle": "所有见解均来自Raptor AI分析",
+    "back": "返回结果",
+    "download": "下载Raptor AI报告",
+    "fullscreen": "在新标签页中打开",
+    "newAnalysis": "返回患者列表"
+  }
+}

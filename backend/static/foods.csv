@@ -1,0 +1,99 @@
+name,nutrients,category
+Camel Meat,"Vitamin B12, Iron, Protein, Zinc",Meat
+Spinach,"Iron, Folate, Vitamin K, Magnesium",Vegetable
+Salmon,"Omega-3, Vitamin D, Protein, B12",Fish
+Almonds,"Vitamin E, Magnesium, Fiber, Calcium",Nuts
+Blueberries,"Vitamin C, Antioxidants, Fiber",Fruit
+Sweet Potato,"Vitamin A, Fiber, Potassium",Vegetable
+Greek Yogurt,"Protein, Calcium, Probiotics, B12",Dairy
+Quinoa,"Protein, Iron, Fiber, Magnesium",Grain
+Avocado,"Vitamin K, Folate, Healthy Fats, Potassium",Fruit
+Kale,"Vitamin C, Vitamin K, Calcium, Iron",Vegetable
+Eggs,"Protein, Vitamin D, B12, Choline",Protein
+Chia Seeds,"Omega-3, Fiber, Calcium, Protein",Seeds
+Turkey,"Protein, B Vitamins, Selenium, Zinc",Meat
+Broccoli,"Vitamin C, Vitamin K, Fiber, Folate",Vegetable
+Walnuts,"Omega-3, Magnesium, Vitamin E",Nuts
+Chicken Breast,"Protein, B6, Niacin, Selenium",Meat
+Lentils,"Protein, Iron, Folate, Fiber",Legume
+Brown Rice,"Fiber, Magnesium, B Vitamins",Grain
+Oranges,"Vitamin C, Folate, Fiber",Fruit
+Tuna,"Protein, Omega-3, Vitamin D, Selenium",Fish
+Sardines,"Omega-3, Vitamin D, Calcium, B12",Fish
+Beef Liver,"Vitamin A, B12, Iron, Folate",Meat
+Oysters,"Zinc, B12, Iron, Vitamin D",Seafood
+Dark Chocolate,"Iron, Magnesium, Antioxidants",Other
+Pomegranate,"Vitamin C, Vitamin K, Folate",Fruit
+Beets,"Folate, Iron, Potassium, Fiber",Vegetable
+Brussels Sprouts,"Vitamin K, Vitamin C, Fiber",Vegetable
+Cashews,"Magnesium, Iron, Zinc, Protein",Nuts
+Dates,"Iron, Potassium, Fiber, B Vitamins",Fruit
+Lamb,"Protein, B12, Iron, Zinc",Meat
+Kabsa Rice,"Carbohydrates, B Vitamins, Iron, Fiber",Grain
+Mandi Lamb,"Protein, B12, Iron, Zinc",Meat
+Shawarma Chicken,"Protein, B6, Niacin, Iron",Meat
+Falafel,"Protein, Fiber, Iron, Folate",Legume
+Hummus,"Protein, Fiber, Folate, Iron",Legume
+Baba Ghanoush,"Fiber, Potassium, Vitamin C, Folate",Vegetable
+Tabbouleh,"Vitamin C, Vitamin K, Fiber, Iron",Vegetable
+Fattoush Salad,"Vitamin A, Vitamin C, Fiber, Folate",Vegetable
+Mutabbaq,"Protein, B Vitamins, Iron, Calcium",Protein
+Sambusa,"Protein, Iron, B Vitamins, Fiber",Protein
+Jareesh,"Protein, Fiber, B Vitamins, Iron",Grain
+Harees,"Protein, Fiber, Iron, B Vitamins",Grain
+Saleeg,"Protein, Calcium, B Vitamins, Carbohydrates",Grain
+Kunafa,"Calcium, Protein, Vitamin A",Dairy
+Basbousa,"Carbohydrates, Protein, Calcium",Other
+Luqaimat,"Carbohydrates, Iron, B Vitamins",Other
+Arabic Coffee,"Antioxidants, Potassium, Magnesium",Other
+Laban,"Probiotics, Calcium, Protein, B12",Dairy
+Halloumi Cheese,"Protein, Calcium, Vitamin A, B12",Dairy
+Foul Medames,"Protein, Fiber, Iron, Folate",Legume
+Red Lentils,"Protein, Iron, Folate, Fiber",Legume
+Chickpeas,"Protein, Fiber, Folate, Iron",Legume
+Fava Beans,"Protein, Fiber, Folate, Iron",Legume
+Black-eyed Peas,"Protein, Fiber, Folate, Potassium",Legume
+Bulgur Wheat,"Fiber, Magnesium, Iron, B Vitamins",Grain
+Freekeh,"Protein, Fiber, Iron, Zinc",Grain
+Barley,"Fiber, Selenium, B Vitamins, Iron",Grain
+Millet,"Magnesium, Phosphorus, Fiber, B Vitamins",Grain
+Okra,"Vitamin C, Vitamin K, Folate, Fiber",Vegetable
+Eggplant,"Fiber, Potassium, Vitamin C, B6",Vegetable
+Zucchini,"Vitamin C, Potassium, Folate, Vitamin A",Vegetable
+Cucumber,"Vitamin K, Potassium, Vitamin C",Vegetable
+Tomatoes,"Vitamin C, Lycopene, Potassium, Folate",Vegetable
+Bell Peppers,"Vitamin C, Vitamin A, B6, Folate",Vegetable
+Cauliflower,"Vitamin C, Vitamin K, Folate, Fiber",Vegetable
+Turnips,"Vitamin C, Fiber, Potassium, Calcium",Vegetable
+Radishes,"Vitamin C, Fiber, Potassium",Vegetable
+Arugula,"Vitamin K, Vitamin A, Calcium, Folate",Vegetable
+Parsley,"Vitamin K, Vitamin C, Vitamin A, Iron",Vegetable
+Mint,"Vitamin A, Iron, Folate, Fiber",Vegetable
+Cilantro,"Vitamin K, Vitamin A, Vitamin C",Vegetable
+Figs,"Fiber, Potassium, Calcium, Iron",Fruit
+Apricots,"Vitamin A, Vitamin C, Potassium, Fiber",Fruit
+Grapes,"Vitamin C, Vitamin K, Antioxidants",Fruit
+Watermelon,"Vitamin C, Vitamin A, Lycopene",Fruit
+Melon,"Vitamin C, Vitamin A, Potassium",Fruit
+Mulberries,"Vitamin C, Iron, Vitamin K, Fiber",Fruit
+Persimmons,"Vitamin A, Vitamin C, Manganese, Fiber",Fruit
+Pistachios,"Vitamin B6, Protein, Fiber, Potassium",Nuts
+Pine Nuts,"Vitamin E, Magnesium, Zinc, Iron",Nuts
+Sesame Seeds,"Calcium, Magnesium, Iron, Zinc",Seeds
+Nigella Seeds,"Iron, Calcium, Fiber, Antioxidants",Seeds
+Pumpkin Seeds,"Magnesium, Iron, Zinc, Omega-3",Seeds
+Sunflower Seeds,"Vitamin E, Magnesium, Selenium",Seeds
+Goat Meat,"Protein, Iron, B12, Potassium",Meat
+Rabbit Meat,"Protein, B12, Selenium, Low Fat",Meat
+Quail,"Protein, Iron, B Vitamins, Selenium",Meat
+Fish (Hamour),"Protein, Omega-3, Vitamin D, Selenium",Fish
+Fish (Safi),"Omega-3, Protein, Vitamin D, B12",Fish
+Camel Milk,"Vitamin C, Iron, Protein, Calcium",Dairy
+Goat Milk,"Calcium, Protein, Vitamin A, Potassium",Dairy
+Labneh,"Protein, Probiotics, Calcium, B12",Dairy
+Olive Oil,"Vitamin E, Vitamin K, Healthy Fats",Other
+Tahini,"Calcium, Iron, Protein, Magnesium",Other
+Date Syrup,"Iron, Potassium, Antioxidants",Other
+Pomegranate Molasses,"Antioxidants, Vitamin C, Potassium",Other
+Sumac,"Antioxidants, Vitamin C, Fiber",Other
+Za'atar,"Iron, Calcium, Vitamin K, Antioxidants",Other

@@ -1,0 +1,76 @@
+.upload-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.upload-zone {
+  background: var(--glass);
+  backdrop-filter: blur(20px);
+  border: 2px dashed rgba(212, 175, 55, 0.3);
+  border-radius: 20px;
+  padding: 4rem 2rem;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.upload-container.drag-active .upload-zone {
+  border-color: var(--secondary);
+  background: rgba(212, 175, 55, 0.1);
+  transform: scale(1.02);
+}
+
+.upload-container.loading .upload-zone {
+  cursor: not-allowed;
+  opacity: 0.9;
+}
+
+.upload-icon-wrapper {
+  margin-bottom: 2rem;
+}
+
+.upload-icon {
+  color: var(--secondary);
+  filter: drop-shadow(0 0 20px rgba(212, 175, 55, 0.3));
+}
+
+.upload-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--light);
+  margin-bottom: 0.5rem;
+}
+
+.upload-subtitle {
+  color: rgba(248, 245, 240, 0.6);
+  font-size: 1rem;
+}
+
+.upload-badge {
+  display: inline-block;
+  background: rgba(212, 175, 55, 0.2);
+  color: var(--secondary);
+  padding: 0.5rem 1.5rem;
+  border-radius: 50px;
+  margin-top: 2rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.progress-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: rgba(212, 175, 55, 0.1);
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--secondary), var(--accent));
+  box-shadow: 0 0 10px rgba(212, 175, 55, 0.5);
+}

@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "title": "الذكاء الغذائي المدعوم بالذكاء الاصطناعي",
+    "subtitle": "قم بتحميل بيانات المريض للحصول على توصيات مخصصة تم إنشاؤها بواسطة Raptor AI"
+  },
+  "upload": {
+    "title": "اسقط ملف CSV هنا",
+    "subtitle": "أو انقر للاستعراض",
+    "format": "تنسيق فقط",
+    "drop": "اترك للتحميل",
+    "processing": "معالجة البيانات...",
+    "analyzing": "يقوم Raptor AI بتحليل المكملات وإنشاء توصيات مخصصة"
+  },
+  "analysis": {
+    "success": "أكمل Raptor AI التحليل بنجاح",
+    "error": "خطأ في معالجة الملف. حاول مرة أخرى.",
+    "patientProfile": "ملف المريض",
+    "name": "الاسم",
+    "id": "المعرف",
+    "age": "العمر",
+    "viewReport": "عرض التقرير الكامل",
+    "backToPatients": "العودة إلى المرضى",
+    "generatedBy": "جميع النتائج تم إنشاؤها بواسطة Raptor AI"
+  },
+  "patients": {
+    "title": "اختر المريض لتحليل Raptor AI",
+    "count": "مريض تم تحليله بواسطة Raptor AI",
+    "age": "العمر",
+    "supplementsDetected": "المكملات المحددة بواسطة Raptor AI",
+    "more": "المزيد",
+    "startNew": "بدء تحليل جديد"
+  },
+  "results": {
+    "title": "نتائج تحليل التغذية من Raptor AI",
+    "subtitle": "جميع التوصيات أدناه تم إنشاؤها بواسطة خوارزميات Raptor AI المتقدمة",
+    "supplements": "المكملات المحددة من Raptor AI",
+    "recommendations": "التوصيات المُنشأة من Raptor AI",
+    "reason": "الفوائد المحللة بواسطة Raptor AI",
+    "mechanism": "الآلية المحللة بواسطة Raptor AI",
+    "viewReport": "عرض تقرير Raptor AI الكامل",
+    "newAnalysis": "العودة إلى المرضى",
+    "disclaimer": "هذه النتائج تم إنشاؤها بواسطة Raptor AI بناءً على التحليل الغذائي المتقدم"
+  },
+  "report": {
+    "title": "التقرير الشامل المُنشأ بواسطة Raptor AI",
+    "subtitle": "جميع الرؤى مستمدة من تحليل Raptor AI",
+    "back": "العودة إلى النتائج",
+    "download": "تحميل تقرير Raptor AI",
+    "fullscreen": "فتح في نافذة جديدة",
+    "newAnalysis": "العودة إلى قائمة المرضى"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "title": "AI 기반 영양 인텔리전스",
+    "subtitle": "환자 데이터를 업로드하여 Raptor AI가 생성한 맞춤형 추천을 받으세요"
+  },
+  "upload": {
+    "title": "CSV 파일을 여기에 드롭하세요",
+    "subtitle": "또는 클릭하여 찾아보기",
+    "format": "형식 전용",
+    "drop": "업로드하려면 놓으세요",
+    "processing": "데이터 처리 중...",
+    "analyzing": "Raptor AI가 보충제를 분석하고 맞춤형 추천을 생성하고 있습니다"
+  },
+  "analysis": {
+    "success": "Raptor AI가 분석을 성공적으로 완료했습니다",
+    "error": "파일 처리 오류. 다시 시도해주세요.",
+    "patientProfile": "환자 프로필",
+    "name": "이름",
+    "id": "ID",
+    "age": "나이",
+    "viewReport": "전체 보고서 보기",
+    "backToPatients": "환자 목록으로 돌아가기",
+    "generatedBy": "모든 결과는 Raptor AI에 의해 생성되었습니다"
+  },
+  "patients": {
+    "title": "Raptor AI 분석을 위한 환자 선택",
+    "count": "명의 환자가 Raptor AI에 의해 분석됨",
+    "age": "나이",
+    "supplementsDetected": "Raptor AI가 식별한 보충제",
+    "more": "더보기",
+    "startNew": "새 분석 시작"
+  },
+  "results": {
+    "title": "Raptor AI 영양 분석 결과",
+    "subtitle": "아래의 모든 권장사항은 Raptor AI의 고급 알고리즘에 의해 생성되었습니다",
+    "supplements": "Raptor AI 식별 보충제",
+    "recommendations": "Raptor AI 생성 권장사항",
+    "reason": "Raptor AI가 분석한 효능",
+    "mechanism": "Raptor AI가 분석한 작용 메커니즘",
+    "viewReport": "Raptor AI 전체 보고서 보기",
+    "newAnalysis": "환자 목록으로",
+    "disclaimer": "이 결과는 고급 영양 분석을 기반으로 Raptor AI가 생성했습니다"
+  },
+  "report": {
+    "title": "Raptor AI가 생성한 종합 보고서",
+    "subtitle": "모든 인사이트는 Raptor AI 분석에서 도출되었습니다",
+    "back": "결과로 돌아가기",
+    "download": "Raptor AI 보고서 다운로드",
+    "fullscreen": "새 탭에서 열기",
+    "newAnalysis": "환자 목록으로"
+  }
+}

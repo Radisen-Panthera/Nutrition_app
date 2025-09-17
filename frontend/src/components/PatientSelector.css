@@ -1,0 +1,128 @@
+/* PatientSelector.css */
+.patient-selector-container {
+  width: 100%;
+  max-width: 1200px;
+}
+
+.patient-selector-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  color: var(--light);
+}
+
+.header-icon {
+  color: var(--secondary);
+  size: 32px;
+}
+
+.patient-selector-header h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  flex: 1;
+}
+
+.patient-count {
+  background: rgba(212, 175, 55, 0.2);
+  color: var(--secondary);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-weight: 600;
+}
+
+.patients-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 1.5rem;
+}
+
+.patient-card {
+  cursor: pointer;
+  transition: all 0.3s ease;
+  padding: 1.5rem !important;
+}
+
+.patient-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--secondary);
+}
+
+.patient-card-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.patient-icon {
+  color: var(--secondary);
+  background: rgba(212, 175, 55, 0.1);
+  padding: 0.75rem;
+  border-radius: 12px;
+  width: 48px;
+  height: 48px;
+}
+
+.patient-info {
+  flex: 1;
+}
+
+.patient-info h3 {
+  color: var(--light);
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.patient-info p {
+  color: rgba(248, 245, 240, 0.6);
+  font-size: 0.9rem;
+}
+
+.arrow-icon {
+  color: var(--secondary);
+  opacity: 0.5;
+  transition: all 0.3s ease;
+}
+
+.patient-card:hover .arrow-icon {
+  opacity: 1;
+  transform: translateX(4px);
+}
+
+.supplements-preview {
+  border-top: 1px solid rgba(212, 175, 55, 0.2);
+  padding-top: 1rem;
+}
+
+.preview-label {
+  color: rgba(248, 245, 240, 0.7);
+  font-size: 0.85rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.supplement-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.supplement-tag {
+  background: rgba(139, 115, 85, 0.2);
+  color: var(--light);
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+.more-tag {
+  background: rgba(212, 175, 55, 0.2);
+  color: var(--secondary);
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
